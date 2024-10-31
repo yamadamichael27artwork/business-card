@@ -7,7 +7,7 @@ const Home = () => {
       <div className="bg-white shadow-md rounded-lg p-8 max-w-xs text-center">
         <Image
           src="/1.png"
-          alt="Profile Picture"
+          alt="business-card/Profile Picture"
           width={100}
           height={100}
           className="rounded-full mx-auto mb-4"
