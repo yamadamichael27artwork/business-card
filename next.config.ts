@@ -1,12 +1,9 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export', // 静的エクスポート
-  images: {
-    unoptimized: true, // 画像最適化を無効化
-  },
-  // リポジトリ名に応じて調整
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  /* config options here */
   basePath: '/business-card',
   assetPrefix: '/business-card',
-}
+};
 
 export default nextConfig;
