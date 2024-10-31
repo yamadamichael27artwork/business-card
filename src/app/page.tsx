@@ -11,6 +11,7 @@ const Home = () => {
           width={100}
           height={100}
           className="rounded-full mx-auto mb-4"
+          unoptimized
         />
         <h1 className="text-2xl font-semibold text-gray-800">山田 太郎</h1>
         <p className="text-gray-500">フロントエンドエンジニア</p>
