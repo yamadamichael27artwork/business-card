@@ -6,8 +6,8 @@ const Home = () => {
     <div className="flex items-center justify-center min-h-screen bg-gray-100">
       <div className="bg-white shadow-md rounded-lg p-8 max-w-xs text-center">
         <Image
-          src="/1.png"
-          alt="business-card/Profile Picture"
+          src="/business-card/1.png"
+          alt="Profile Picture"
           width={100}
           height={100}
           className="rounded-full mx-auto mb-4"
