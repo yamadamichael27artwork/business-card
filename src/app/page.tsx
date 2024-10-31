@@ -6,7 +6,7 @@ const Home = () => {
     <div className="flex items-center justify-center min-h-screen bg-gray-100">
       <div className="bg-white shadow-md rounded-lg p-8 max-w-xs text-center">
         <Image
-          src="/business-card/public/1.png"
+          src="/business-card/images/1.png"
           alt="Profile Picture"
           width={100}
           height={100}
